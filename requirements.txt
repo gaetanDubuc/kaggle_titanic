@@ -1,0 +1,5 @@
+pandas
+sklearn
+mlflow
+kaggle
+plotly

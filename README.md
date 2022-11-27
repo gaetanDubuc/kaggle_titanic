@@ -4,7 +4,7 @@ This repository is my first real implication on a kaggle competition. All others
 and it has been 3 months i don't touch pandas and so on...
 
 Here i want to make a robust pipeline as a test for later competitions. It has to train a model and submit data.
-Moreover it has to make continuous training test and each version of the model has to be saved for mater inspection.
+Moreover it has to make continuous training test and each version of the model has to be saved for later inspection.
 
 # How to read this repository
 
