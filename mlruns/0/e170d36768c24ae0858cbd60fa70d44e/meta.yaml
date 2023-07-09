@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaetd/Desktop/kaggle/kaggle_titanic/mlruns/0/e170d36768c24ae0858cbd60fa70d44e/artifacts
+end_time: 1688909547465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e170d36768c24ae0858cbd60fa70d44e
+run_name: popular-fish-384
+run_uuid: e170d36768c24ae0858cbd60fa70d44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688909543926
+status: 3
+tags: []
+user_id: gaetd

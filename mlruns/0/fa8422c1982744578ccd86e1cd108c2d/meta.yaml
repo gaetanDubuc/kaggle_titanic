@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaetd/Desktop/kaggle/kaggle_titanic/mlruns/0/fa8422c1982744578ccd86e1cd108c2d/artifacts
+end_time: 1688910632892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa8422c1982744578ccd86e1cd108c2d
+run_name: gaudy-loon-859
+run_uuid: fa8422c1982744578ccd86e1cd108c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688910629344
+status: 3
+tags: []
+user_id: gaetd
