@@ -1,4 +1,0 @@
-ColumnTransformer(transformers=[('ordinalEn',
-                                 OrdinalEncoder(handle_unknown='use_encoded_value',
-                                                unknown_value=-1),
-                                 Index(['Parch', 'Pclass', 'Sex', 'SibSp', 'Ticket', 'Unnamed: 0'], dtype='object'))])
