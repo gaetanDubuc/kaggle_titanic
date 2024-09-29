@@ -1,0 +1,31 @@
+artifact_path: titanic_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.7.0
+model_uuid: ec11ae46b2614785a13ae96a147370bd
+run_id: 6952d04a7ef3425aa13041aa09e582ae
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "PassengerId"}, {"type": "long", "name": "Pclass"},
+    {"type": "string", "name": "Name"}, {"type": "string", "name": "Sex"}, {"type":
+    "double", "name": "Age"}, {"type": "long", "name": "SibSp"}, {"type": "long",
+    "name": "Parch"}, {"type": "string", "name": "Ticket"}, {"type": "double", "name":
+    "Fare"}, {"type": "string", "name": "Cabin"}, {"type": "string", "name": "Embarked"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-09-29 13:38:53.778299'
